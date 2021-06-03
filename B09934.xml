@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad and sorrowfull relation of Laurence Cauthorn, butcher; who was buried whilst he was alive, in Christ-church-yard, upon Friday, June 21.  And was taken up and the coroners jury fate on him June 24</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09934</idno><idno type="EEBO-CITATION">64551731</idno>
+  <idno type="VID">184795</idno>
+  <idno type="EEBO-PROQUEST">2240862669</idno>
+  
+            <idno type="OCLC"> 64551731</idno>
+            <idno type="STC">Wing S244E</idno>
+            <idno type="STC">ESTC R183152</idno>
+            <idno type="OCLC">64551731</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184795)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad and sorrowfull relation of Laurence Cauthorn, butcher; who was buried whilst he was alive, in Christ-church-yard, upon Friday, June 21.  And was taken up and the coroners jury fate on him June 24</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Austin Rice, at the Crown in St. Pauls-Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cauthorn, Laurence, d. 1661.</term>
+               <term type="topical_term">Burial, Premature --  Early works to 1800.</term>
+               <term type="topical_term">Death, Apparent --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184795:1"/>
+            <head>A Sad and Sorrowfull RELATION of <hi>Laurence Cauthorn,</hi> Butcher; who was Buried whilest he was ALIVE, In <hi>Christ-Church-Yard,</hi> Upon Friday, <hi>June</hi> 21. And was taken up, and the Coroners Jury sate on him <hi>June</hi> 24.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ith what Face can we Presume to tread upon the Face of the Earth, or dare lift up our eyes to that of Heaven, when our thoughts are so Rebellious to conspire, and our hearts and our Resolutions so cruel to imbrue our hands so inhumanely in the Innocent Blood of our Brethren? Thoughts they are, which in seeming to please our Senses, poison our Hearts, and do thereby truly poison our Soules; Resolutions they are that we cannot conceive or attempt with more inhumanity then finish with Misery; sith, in thinking to send them to their untimely Graves, we assuredly send our selves to our own Miserable and Infamous ends, and all for a little Gain or Lucre: whereas we are born rather to Happiness then Misery, had we but so much Grace to secure our Lives, as Vanity and Impiety to Ruine them. May all good Christians read this sad ensuing Story to Gods Glory; and Remember, to the Instruction of their Souls.</p>
+            <p>In <hi>Pincock-lane</hi> in the <hi>Shambles,</hi> in the Parish of <hi>Christs-Church London,</hi> at one <hi>Sarah Cooks</hi> a wid<g ref="char:EOLhyphen"/>dowes house lodged a young man by name <hi>Laurence Cauthorn,</hi> who wrought in dressing of Oxen, and other Beasts, to one Mr. <hi>Jackson</hi> a <hi>Butcher</hi> in the <hi>Shambles;</hi> Thursday night being a usual time of killing against Market-day, this young man came to his Master, to know whether he should go to work or no, which his Master told him, He thought would not be so convenient in regard of the Extremity of hot weather, (his Customers having not long before complained;) but withal told him, He would send his Apprentice to call him to work by three a clock the next morning; whereupon he took his leave for that night: and tis like betook himself to the Society of his Companions and Neighbours for that Evening.</p>
+            <p>The next morning being come, his Master dispatches away his apprentice by three a clock to call him, who knockt v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry often at his Chamber, but could not possibly make him hear; whereupon, be<g ref="char:EOLhyphen"/>ing fearful there might some ill betide him, the door was caused to be broke open, and there was he found (seemingly) not likely to live, being Speechless and Sightless, and so he continued: his Master (at a di<g ref="char:EOLhyphen"/>stance of time) sending often to see how he was, was still answered, Worse and worse; until at length word was brought he was Dead, which was accompanied with his Landlady's desiring Mr. <hi>Jack<g ref="char:EOLhyphen"/>son</hi> to bestow something towards a Coffin; to which he freely did contribute (though he knew he could not want wherewith to bury him, having very good cloaths and linnen as any young man had thereabout, and had bought a pair of new hose and shoos that cost about 16 shillings (to his knowledge) not many dayes before.) But so it was, he had not been (as was said) dead many houres (before he was quite cold) he was committed to his Grave about 9 a clock the same Night in <hi>Christ-Church-Yard;</hi> where he had not been many houres, but in the evening he was heard heavily to groan by a Woman lying in, whose Chamber was neer the Church-yard; whereupon she having a jealousy it might be some lately buried, she caused her servant to go &amp; call up the Sexton to come and see what the matter was; who did, but could not hear any thing (as he said) though she could not rest in quiet for that doleful Noise, but sent two or three times more to him, with the like success as before.</p>
+            <p>Yet still this poor Woman was resolved not to rest, but by her servant acquaints the Church-Wardens on the Sabbath day; who (instead of harkening to his message) call'd him idle Jack-anapes, and the like, and sent the Boy his way: but for all their slighting it, the cry grew so common in peoples mouths, that the Church-Wardens were again solicited to it by severall of the parish; so that at length by order, on <hi>Munday</hi> morning the Grave was opened, where they sound too true, what they could hardly credit before; for the Man was not quite cold, but Dead indeed now; and by striving and strugling beat his Eyes out of his Head, having battered and bruised his Face and Head that it was swoln as big again as before, to the great Sorrow and Astonishment of many hundreds that were Spectators thereof.</p>
+            <p>Now as to the Design or occasion of this Persons being so used, none can truly tell; but some report that there were a string found about his Neck, as if he had been strangled for his Goods; but there is no such thing, For 'twas a cloth he wore there, having had an Imposthume in his Throat; however <hi>Sarah Cook</hi> his Landlady, is committed to <hi>Newgate</hi> on Suspition, though as yet nothing can be look upon in it, but her over-hasty desire to rid her House of a Dead Corps; only one thing was remarkable, That all the time of his Sickness, his Sister, and other Friends that dwelt not far off, were not sent for; neither were they ac<g ref="char:EOLhyphen"/>quainted with his Buriall till afterward, who were then the main cause of procuring him to be taken up.</p>
+            <p>
+               <hi>The Crowners Jury hath not yet given up their Verdict, and therefore I shall forbear to censure any one, but leave you to their Verdict for better satisfaction.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Austin Rice,</hi> at the <hi>Crown</hi> in S. <hi>Pauls-Church-Yard,</hi> 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
